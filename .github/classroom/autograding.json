@@ -1,14 +1,14 @@
 {
   "tests": [
     {
-      "name": "python3 -V",
+      "name": "python3",
       "setup": "",
-      "run": "python3 -V",
+      "run": "python3",
       "input": "",
       "output": "",
       "comparison": "included",
       "timeout": 10,
-      "points": null
+      "points": 10
     }
   ]
 }
