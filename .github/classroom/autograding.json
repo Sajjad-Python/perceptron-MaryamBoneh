@@ -1,9 +1,9 @@
 {
   "tests": [
     {
-      "name": "jupyter",
-      "setup": "sudo -H pip3 install jupyter",
-      "run": "jupyter nbconvert --execute ",
+      "name": "python3 -V",
+      "setup": "",
+      "run": "python3 -V",
       "input": "",
       "output": "",
       "comparison": "included",
