@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "jupyter",
+      "setup": "sudo -H pip3 install jupyter",
+      "run": "jupyter nbconvert --execute ",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    }
+  ]
+}
